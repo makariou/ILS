@@ -1,4 +1,5 @@
 #setup folders and filename
+## tianlin
 datafilename <-"Raw_data_final.csv"
 datafolder <- "C:/Users/despm/OneDrive/Documents/My PhD Work/FINAL DATA WORK/"
 datafile <- paste(datafolder, datafilename, sep="")
